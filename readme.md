@@ -1,11 +1,11 @@
-# leap-year [![Build Status](https://travis-ci.org/sindresorhus/leap-year.svg?branch=master)](https://travis-ci.org/sindresorhus/leap-year)
+# leap-year [![Build Status](https://travis-ci.org/datetime/leap-year.svg?branch=master)](https://travis-ci.org/datetime/leap-year)
 
 > Check if a year is a [leap year](http://en.wikipedia.org/wiki/Leap_year)
 
 
 ## Install
 
-```sh
+```
 $ npm install --save leap-year
 ```
 
