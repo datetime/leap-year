@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Check if a year is a leap year",
   "license": "MIT",
-  "repository": "sindresorhus/leap-year",
+  "repository": "datetime/leap-year",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
